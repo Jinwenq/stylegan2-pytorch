@@ -27,7 +27,9 @@ Nor these celebrities (trained by <a href="https://github.com/yoniker">@yoniker<
 ## Install
 
 You will need a machine with a GPU and CUDA installed. Then pip install the package like this
-
+```bash
+!apt-get install cuda
+```
 ```bash
 $ pip install stylegan2_pytorch
 ```
